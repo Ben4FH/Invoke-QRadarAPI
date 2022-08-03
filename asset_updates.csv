@@ -1,0 +1,5 @@
+Given Name:1001,Unified Name:1002,Description:1004,Technical Owner:1007,Technical Contact:1008,Location:1009,User Supplied OS:1020,Asset Type:1026
+PAN01,,Firewall,Network Team,networkteam@company.com,London,PAN-OS,Firewall
+DC01,DC01@domain.local,Domain Controller,Server Team,serverteam@company.com,London,Windows Server 2016,Server
+NESSUS01,NESSUS01@domain.local,Nessus Server,SOC,socteam@company.com,London,,Server
+NEWSERVER,,,Server Team,serverteam@company.com,,Windows Server 2019,Server
